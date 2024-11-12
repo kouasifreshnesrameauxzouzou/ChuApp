@@ -2,4 +2,3 @@ datetime
 streamlit
 XlsxWriter
 openpyxl
-openxml
